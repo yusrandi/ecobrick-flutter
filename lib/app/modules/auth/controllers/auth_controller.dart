@@ -4,8 +4,6 @@ import '../../../cores/core_colors.dart';
 import '../../../cores/core_strings.dart';
 import '../../../data/models/user_model.dart';
 import '../../../data/services/user_service.dart';
-import '../../../routes/app_pages.dart';
-import 'authentication_manager.dart';
 
 class AuthController extends GetxController {
   RxBool passwordVisible = false.obs;

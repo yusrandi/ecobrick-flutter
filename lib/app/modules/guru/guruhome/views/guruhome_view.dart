@@ -1,6 +1,3 @@
-import 'dart:js';
-import 'dart:math';
-
 import 'package:ecobrick_app/app/cores/core_colors.dart';
 import 'package:ecobrick_app/app/cores/core_images.dart';
 import 'package:ecobrick_app/app/cores/core_styles.dart';
